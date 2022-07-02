@@ -1,1 +1,1 @@
-# Przetwarzanie_obrazow
+Proste operacje na obrazach
